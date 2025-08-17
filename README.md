@@ -59,17 +59,16 @@ flutter run
 ```
 lib/
 ├── main.dart
-├── screens/
-├── widgets/
-├── models/
-├── services/
-└── utils/
+├── core/
+│   └── routing/
+└── features/
+    └── audio_player/
 ```
 
 ### Key Dependencies
-- `flutter/material.dart` - UI framework
-- `http` - API requests
-- `audioplayers` - Audio playback functionality
+- `flutter` - UI framework
+- `get` - State management, dependency injection, and route management
+- `webview_flutter` - for displaying web content, in this case, the SoundCloud player.
 
 ## 📖 Usage
 
