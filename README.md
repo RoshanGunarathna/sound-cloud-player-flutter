@@ -4,9 +4,9 @@ A feature-rich Flutter application that allows you to stream and play any public
 
 ## 📱 Screenshots
 
-| Home Screen | Player Screen | Playlist View |
-|-------------|---------------|---------------|
-| ![Android Player](screenshots/android_player.png) | ![Ios Player](screenshots/ios_player.png) |
+| Android Player Screen | Ios Player Screen |
+|-------------|---------------|
+| ![Android Player](screenshots/android_player.jpg) | ![Ios Player](screenshots/ios_player.png) |
 
 *Screenshots showcase the customizable UI elements and clean design*
 
