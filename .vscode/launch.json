@@ -1,0 +1,50 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flutter (Android)",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "emulator-5554"
+        },
+        {
+            "name": "Flutter (iOS)",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "6E20E314-7165-4940-9621-EB5F1F556964"
+        },
+        {
+            "name": "Flutter (Web)",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "chrome"
+        },
+        {
+            "name": "soundcloud_flutter_app_example_v2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "soundcloud_flutter_app_example_v2 (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "soundcloud_flutter_app_example_v2 (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ],
+    "compounds": [
+        {
+            "name": "All Devices",
+            "configurations": [
+                "Flutter (Android)",
+                "Flutter (iOS)",
+                "Flutter (Web)"
+            ]
+        }
+    ]
+}
