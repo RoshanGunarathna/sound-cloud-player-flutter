@@ -1,6 +1,6 @@
 # SoundCloud Flutter App
 
-A feature-rich Flutter application that allows you to stream and play any public SoundCloud tracks with a fully customizable user interface.
+A Flutter application that allows you to stream and play any public SoundCloud tracks with a fully customizable user interface.
 
 ## 📱 Screenshots
 
