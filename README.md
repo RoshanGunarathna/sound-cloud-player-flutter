@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+This is can play any public soundcloud audios. Can customize every element you see on screenshots. For Android and Ios working perfectly. For web not working yet.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
